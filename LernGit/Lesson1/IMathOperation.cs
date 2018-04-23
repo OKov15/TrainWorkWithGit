@@ -9,5 +9,7 @@ namespace Lesson1
     public interface IMathOperation
     {
         double AddTwoNumber(double first, double second);
+
+        double DivNumber(double first, double second);
     }
 }

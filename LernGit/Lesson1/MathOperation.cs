@@ -12,5 +12,10 @@ namespace Lesson1
         {
             return first + second;
         }
+
+        public double DivNumber(double first, double second)
+        {
+            return first / second;
+        }
     }
 }
