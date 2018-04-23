@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="IMathOperation.cs" />
     <Compile Include="MathOperation.cs" />
+    <Compile Include="NextMathOperation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
